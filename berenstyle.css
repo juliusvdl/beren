@@ -1,6 +1,6 @@
 body{
 	background-color: #f3f3f3;
-	padding:0;
+	padding:200px;
 	margin:0;
 	font-family:monospace;
 }
@@ -17,7 +17,7 @@ body{
 	background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg);
 	background-repeat:repeat;
 	background-size:cover;
-	background-position:center -120px;
+	background-position:center -80px;
 	padding: 100px 20px 100px 20px;
 }
 
@@ -39,7 +39,7 @@ body{
 }
 
 .page-content{
-	padding: 200px;
+	padding: 10px;
 }
 
 h1{
